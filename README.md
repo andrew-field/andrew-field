@@ -1,3 +1,1 @@
-There is not much here.
-
-It's not very good or, to put it another way, minimally exceptional.
+I’m Andrew, I love using Go and am interested in all things opensource.
